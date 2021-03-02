@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://youtu.be/LPWocjPFkNs" target="blank">Day_1</a>&nbsp;
     ·
-    <a href="https://github.com/ashish2030/Ludo-Game/issues/new/choose">Day_2</a>&nbsp;
+    <a href="https://youtu.be/gRzbYSS7pLQ">Day_2</a>&nbsp;
     ·
     <a href="https://github.com/ashish2030/Ludo-Game/issues/new/choose">Day_3</a>
 </p>
