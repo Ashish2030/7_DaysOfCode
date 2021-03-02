@@ -3,5 +3,11 @@
 <br>
 
 <p align="center"><img src="./Image/poster.png" alt="Poster" width="500px" height="500px" /></p>
-<a href="https://youtu.be/LPWocjPFkNs">Day_1</a>
+<p align="center">
+    <a href="https://youtu.be/LPWocjPFkNs" target="blank">Day_1</a>
+    ·
+    <a href="https://github.com/ashish2030/Ludo-Game/issues/new/choose">Day_2</a>
+    ·
+    <a href="https://github.com/ashish2030/Ludo-Game/issues/new/choose">Day_3</a>
+</p>
 
